@@ -1,6 +1,6 @@
 # Contributing
 
-We welcome contributions from everyone who wants to improve this project.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 ## How to Contribute
 1. Fork the repository.
