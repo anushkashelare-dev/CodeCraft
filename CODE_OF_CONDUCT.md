@@ -12,7 +12,7 @@ Examples of behaviour that contributes to a positive environment include:
 
 Unacceptable behaviour includes harassment, insults, discrimination, personal attacks, and publishing others' private information without permission.
 
-## Our Responsibilities
+## Enforcement Responsibilities
 Project maintainers are responsible for clarifying and enforcing our standards of acceptable behaviour. They may remove, edit, or reject contributions that do not follow this Code of Conduct.
 
 ## Scope
@@ -20,6 +20,9 @@ This Code of Conduct applies within project spaces and whenever someone is repre
 
 ## Enforcement
 Instances of abusive, harassing, or otherwise unacceptable behaviour may be reported to the project maintainers through the repository's GitHub contact options. Reports will be reviewed and handled fairly.
+
+## Enforcement Guidelines
+Project maintainers will review reports promptly and fairly, consider the impact and context of each incident, and take appropriate action. They will respect the privacy of those involved as far as practical.
 
 ## Attribution
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
